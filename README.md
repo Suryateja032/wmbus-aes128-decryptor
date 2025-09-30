@@ -19,7 +19,6 @@ This project implements AES-128 decryption for Wireless M-Bus telegrams accordin
 - OpenSSL library
 - CMake build system
 
-## Build Instructions
 
-### Linux/macOS
+
 
